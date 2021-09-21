@@ -15,5 +15,5 @@
         - **Gender**: female are more likely to churn;   
         - **Geography**: Customer from Germany are more likely to churn;  
         - **IsActiveMember**: Non active members are more likely to churn.  
-    - Business Suggestions: See [Part 6 Conclusion - Main suggestions](#part6-suggest) 
+    - Business Suggestions: See [Part 6 Conclusion - Main suggestions](bank_customer_churn_prediction.ipynb#part6-suggest) 
     
