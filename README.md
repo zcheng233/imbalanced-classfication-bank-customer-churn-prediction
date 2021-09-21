@@ -8,7 +8,7 @@
 
 - Main take away:
     - Handling imbalanced classfication problem by stratified sampling and **SMOTE**, which enhanced ~50% of model performance.
-    - Select **recall** as the most suitable metrics for this specific project, achieving best recall of 69.74% by XGBoost
+    - Select **recall** as the most suitable metrics for this specific project, achieving best recall of **69.74%** by XGBoost
     - 5 Most important factors:   
         - **Age**: older customer are more likely to churn;  
         -  **NumOfProducts**: churn customer tend to use more products;  
